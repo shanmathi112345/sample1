@@ -1,3 +1,3 @@
-a=200
+a=2000
 b=2
-print(a+b)
+print(a*b)
